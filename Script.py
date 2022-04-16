@@ -5,7 +5,7 @@ class script(object):
 
 i𝗍𝗌 𝖾𝖺𝗌𝗒 𝗍𝗈 𝗎𝗌𝖾 𝗆𝖾; 𝗃𝗎𝗌𝗍 𝖺𝖽𝖽 𝗆𝖾 𝗍𝗈 𝗒𝗈𝗎𝗋 𝗀𝗋𝗈𝗎𝗉 𝖺𝗌 𝖺𝖽𝗆𝗂𝗇, 𝗁𝗂𝗍 /help 𝖿𝗈𝗋 𝗆𝗈𝗋𝖾
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
-©MᴀɪɴᴛᴀɪɴᴇD Bʏ:<a href='tg://user?id=1951205538'><b>༒ᶜʳᵃᶻʸᴮᴼˢˢ卂乃卄丨丂卄乇Ҝ༒</b></a> .</b>"""
+©MᴀɪɴᴛᴀɪɴᴇD Bʏ:<a href='tg://user?id=1428711323'><b>{A}{p}{p}{u}®{offline}®</b></a> .</b>"""
 
     HELP_TXT = """<b>𝖧𝖾𝗋𝖾 𝗂𝗌 𝗍𝗁𝖾 𝖴𝗌𝗎𝖺𝗅 𝖼𝗈𝗆𝗆𝖺𝗇𝖽𝗌</b>: 
 /start - 𝖼𝗁𝖾𝖼𝗄 𝗐𝗁𝖾𝗍𝗁𝖾𝗋 𝗂𝗆 𝗈𝗇𝗅𝗂𝗇𝖾 
@@ -15,14 +15,14 @@ i𝗍𝗌 𝖾𝖺𝗌𝗒 𝗍𝗈 𝗎𝗌𝖾 𝗆𝖾; 𝗃𝗎𝗌𝗍 𝖺
 ╔══════════════════❍
 ║╭━━━━━━━━━━━━━━━➣ 
 ║➠ 𝙼𝚈 𝙽𝙰𝙼𝙴 -  Tiger Shroff
-║➠ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - :<a href='tg://user?id=1951205538'><b>༒ᶜʳᵃᶻʸᴮᴼˢˢ卂乃卄丨丂卄乇Ҝ༒</b></a>
-║➠ 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 - <a href='https://t.me/Abhisheksvlog'>Everyone in this journey </a>
+║➠ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - :<a href='tg://user?id=1428711323'><b>{A}{p}{p}{u}®{offline}®</b></a>
+║➠ 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 - <a href='https://t.me/filesharingnewbot'>Everyone in this journey </a>
 ║➠ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 - <a href='https://docs.pyrogram.org/'>𝑷𝒚𝒕𝒉𝒐𝒏 3 </a>
 ║➠ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 - <a href='https://docs.pyrogram.org/'>𝑷ʏʀᴏɢʀᴀᴍ </a>
 ║➠ 𝙲𝙻𝙾𝙽𝙴𝙳 𝙵𝚁𝙾𝙼 - EvaMaria
 ║➠ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 -  <a href='https://dashboard.heroku.com/apps'>𝑯𝒆𝒓𝒐𝒌𝒖</a>
-║➠ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 - <a href='https://t.me/TigerShroffimdbot'>𝒗8.7.2[𝑴𝒂𝒋𝒐𝒓]</a>
-║➠ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 - <a href='https://github.com/200920082007/TigerShroff'>𝑪𝒍𝒊𝒄𝒌 𝑯𝒆𝒓𝒆</a>
+║➠ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 - <a href='https://t.me/bx_mohalal_bot'>𝒗8.7.2[𝑴𝒂𝒋𝒐𝒓]</a>
+║➠ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 - <a href='https://t.me/+zUMNAWFERRY0ZGY1'>𝑪𝒍𝒊𝒄𝒌 𝑯𝒆𝒓𝒆</a>
 ║╰━━━━━━━━━━━━━━━➣ ╚══════════════════❍
     
 
@@ -77,11 +77,11 @@ Don't Worry Send /shazam"""
  
  Tʜᴇɴ Mᴀʟʟᴜ Aᴜɴᴛʏ Wɪʟʟ Tᴇxᴛ Yᴏᴜ Sᴏᴍᴇ Jᴏᴋᴇs 😂😂 """
 
-    ABOUTME_TXT = """➢ 𝐌𝐲 𝐍𝐚𝐦𝐞: <a href='http://t.me/TigerShroffImdbot'>𝑇𝑖𝑔𝑒𝑟 𝑆𝒉𝑟𝑜𝑓𝑓 </a>
+    ABOUTME_TXT = """➢ 𝐌𝐲 𝐍𝐚𝐦𝐞: <a href='http://t.me/bx_mohalal_bot'>𝑇𝑖𝑔𝑒𝑟 𝑆𝒉𝑟𝑜𝑓𝑓 </a>
     
-➢ 𝐌𝐲 𝐂𝐫𝐞𝐚𝐭𝐨𝐫: <a href='tg://user?id=1951205538'><b>༒ᶜʳᵃᶻʸᴮᴼˢˢ卂乃卄丨丂卄乇Ҝ༒</b></a>
+➢ 𝐌𝐲 𝐂𝐫𝐞𝐚𝐭𝐨𝐫: <a href='tg://user?id=1428711323'><b>{A}{p}{p}{u}®{offline}®</b></a>
 
-➢ 𝐌𝐲 𝐒𝐨𝐮𝐫𝐜𝐞: <a href='https://github.com/200920082007/TigerShroff'><b>TigerShroff</b></a>
+➢ 𝐌𝐲 𝐒𝐨𝐮𝐫𝐜𝐞: <a href='https://t.me/+zUMNAWFERRY0ZGY1'><b>CLICK HERE</b></a>
 
 ➢ 𝐌𝐲 𝐋𝐢𝐛𝐫𝐚𝐫𝐲: <a href='https://docs.pyrogram.org/'>𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆</a>
 
@@ -91,9 +91,9 @@ Don't Worry Send /shazam"""
 
 ➢ 𝐌𝐲 𝐒𝐞𝐫𝐯𝐞𝐫: <a href='https://dashboard.heroku.com/apps'>𝖧𝖾𝗋𝗈𝗄𝗎</a>
 
-➢ 𝐌𝐲 𝐔𝐩𝐝𝐚𝐭𝐞𝐬: <a href='https://Github.com/200920082007'>Movie Hub</a>
+➢ 𝐌𝐲 𝐔𝐩𝐝𝐚𝐭𝐞𝐬: <a href='https://t.me/allinonemoviesforallin'>ALL IN ONE</a>
 
-➢ 𝐌𝐲 𝐒𝐮𝐩𝐩𝐨𝐫𝐭: <a href='https://t.me/tigershroffimdb'>𝖲𝗎𝗉𝗉𝗈𝗋𝗍</a>
+➢ 𝐌𝐲 𝐒𝐮𝐩𝐩𝐨𝐫𝐭: <a href='https://t.me/Movie_channel_0'>𝖲𝗎𝗉𝗉𝗈𝗋𝗍</a>
 
 ➤ 𝙸𝚏 𝚢𝚘𝚞 𝚕𝚒𝚔𝚎 𝚝𝚑𝚒𝚜 𝚋𝚘𝚝 𝚙𝚕𝚎𝚊𝚜𝚎 𝚜𝚑𝚊𝚛𝚎 𝚊𝚗𝚍 𝚜𝚞𝚙𝚙𝚘𝚛𝚝 𝚞𝚜 ⚡"""
 
@@ -309,7 +309,7 @@ Song Download Module, For Those Who Love Music
 - Can Be Used By Everyone
 - Works in bot pm
 
-Made By <a href=https://t.me/+veUIdIW2CQ5mOGU5>𝐌𝐖 𝐔𝐩𝐝𝐚𝐭𝐞𝐬</a>"""
+Made By <a href=https://t.me/allinonemoviesforallin>ALL IN ONE</a>"""
     SHARE_TXT = """Help: <b>Sharing Text Maker</b>
 a bot to create a link to share text in the telegram.
 <b>Commands and Usage:</b>
@@ -411,7 +411,7 @@ Delete A Lot Of Messages From Groups!
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/+veUIdIW2CQ5mOGU5)</code>
+<code>[Button Text](buttonurl:https://t.me/allinonemoviesforallin)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -537,7 +537,7 @@ Added By - {}
 
 ➪ 𝖩𝗎𝗌𝗍 𝗌𝖾𝗇𝖽 𝗆𝖾 𝖺 𝗂𝗆𝖺𝗀𝖾 𝗍𝗈 𝖾𝖽𝗂𝗍 ✨
 
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/+veUIdIW2CQ5mOGU5>𝐌𝐖 𝐔𝐩𝐝𝐚𝐭𝐞𝐬</a>"""
+𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/allinonemoviesforallin>ALL IN ONE</a>"""
 
     STICKER_TXT = """𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚃𝙾 𝙵𝙸𝙽𝙳 𝙰𝙽𝚈 𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂 𝙸𝙳.
 • 𝐔𝐒𝐀𝐆𝐄
